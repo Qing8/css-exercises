@@ -1,0 +1,17 @@
+.pink-background {
+    background-color: #FF6666;
+}
+
+.bigger-font {
+    font-size: 20px;
+}
+
+#id1 {
+    color: blue;
+    font-size: 50px;
+}
+
+#id2 {
+    background-color: green;
+    font-size: 50px;
+}
